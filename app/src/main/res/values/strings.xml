@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Aplicatie Zaruri</string>
+    <string name="btn_neapasat">Arunca zarurile</string>
+    <string name="btn_apasat">Asteapta!</string>
+</resources>
